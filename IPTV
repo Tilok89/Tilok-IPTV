@@ -388,3 +388,120 @@ http://peridot.streamguys.com:7150/Mirchi
 http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
 #EXTINF: -1 tvg-logo="https://www.dropbox.com/s/pn9rydep7xzxfcg/101.6.jpg?raw=1" group-title="FM Radio",Colours FM (101.6)
 http://45.64.135.88:8000/stream1
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="BANGLA", ATN-Bangla
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723447
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="BANGLA", Atn-News
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723448
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="BANGLA", Channel 24
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723449
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="BANGLA", DBC-NEWS
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723450
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="BANGLA", Ekattor-tv
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723451
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="BANGLA", News24
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723452
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="BANGLA", Somoy-TV
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723453
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="BANGLA", Jamuna-TV
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723454
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="BANGLA", Independent-Tv
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723455
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="BANGLA", Nagorik-TV
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723456
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="BANGLA", Bijoy TV
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723457
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="BANGLA", T Sports
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723458
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="BANGLA", Deepto TV
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723459
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="BANGLA", Ekushey TV
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723460
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="BANGLA", Gazi TV
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723461
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="INDIAN BANGLA", Star Jalsha HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723462
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="INDIAN BANGLA", Colors Bangla HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723463
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="INDIAN BANGLA", Zee Bangla HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723464
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="INDIAN BANGLA", Sony Aath
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723465
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="INDIAN BANGLA", Jalsha Movies HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723466
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="INDIAN BANGLA", Zee Bangla Cinema
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723467
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="HINDI ENTERTAINMENT", Star Plus HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723468
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="HINDI ENTERTAINMENT", Sony TV HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723469
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="HINDI ENTERTAINMENT", Colors HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723470
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="HINDI ENTERTAINMENT", Zee TV HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723471
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="HINDI ENTERTAINMENT", Sony Sab HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723472
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="HINDI MOVIES", Sony Max HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723473
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="HINDI MOVIES", Star Gold HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723474
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="HINDI MOVIES", And Picture HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723475
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="HINDI MOVIES", Color Ceneolex
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723476
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="HINDI MOVIES", Colors Cineplex HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723477
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="HINDI MOVIES", Zee Action
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723478
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="HINDI MOVIES", Wow Cinema
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723479
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="HINDI MOVIES", Zee Bollywood
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723480
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="INFOTAINMENT & LIFESTYLE", Discovery HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723481
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="INFOTAINMENT & LIFESTYLE", National Geographic
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723482
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="INFOTAINMENT & LIFESTYLE", TLC HD World
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723483
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="INFOTAINMENT & LIFESTYLE", Animal Planet HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723484
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="INFOTAINMENT & LIFESTYLE", BBC Earth
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723485
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="ENGLISH MOVIES", Zee Cafe HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723486
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="ENGLISH MOVIES", Sony Pix HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723487
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="ENGLISH MOVIES", & Flix HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723488
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="SPORTS", WILLOW HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723489
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="SPORTS", Star Sports 1 Hindi HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723490
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="SPORTS", Star Sports 2
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723491
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="SPORTS", Star Sports Select 1 HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723492
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="SPORTS", Sony Six HD 2
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723493
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="SPORTS", Sony Ten1 HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723494
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="SPORTS", Sony Ten2 HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723495
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="SPORTS", Sony Ten 3 HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723496
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="SPORTS", Bein Sports 2 HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723497
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="MUSIC CHANNELS", Sangeet Bangla
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723498
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="MUSIC CHANNELS", Music india
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723499
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="MUSIC CHANNELS", Masti
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723500
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="MUSIC CHANNELS", Mtv beats
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723501
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="MUSIC CHANNELS", 9X Jalwa
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723502
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="MUSIC CHANNELS", 9x Tashan
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723503
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="KIDS-CARTOONS", Nick Jr.
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723504
